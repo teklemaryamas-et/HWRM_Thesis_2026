@@ -1,4 +1,4 @@
-# 🌍 Multi-Model Bias Correction, GCM Evaluation, and Drought Risk Assessment Using Machine Learning,RIM,CPI,JOC and SPI under NEX-GDDP-CMIP6 Scenarios.
+# 🌍 Bias Correction of CHIRPS Precipitation Using Machine Learning Algorithms (RF, SVM, KNN, and XGBoost), Evaluation and Selection of NEX-GDDP-CMIP6 GCMs Using RIM, CPI, and JOC Metrics, Bias Correction of Selected GCMs Using BCCA Methods (GEQM, GQM, LS, and PT), and Drought Risk Assessment Using SPI-1, SPI-3, SPI-6, and SPI-12 Under SSP2-4.5 and SSP5-8.5 Scenarios.
 
 ## 📌 Project Overview
 This repository presents the computational framework developed for an MSc thesis in Hydrology and Water Resources Management. The study integrates **machine learning-based bias correction**, **multi-criteria GCM evaluation**, **statistical downscaling**, and **drought risk assessment** under CMIP6 climate change scenarios.
